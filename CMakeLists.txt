@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.2)
+# project(BufferLib)
+set(CMAKE_CXX_FLAGS -std=c++20)
+set(SOURCE_FILES Buffer.cpp)
+add_library(BufferLib STATIC ${SOURCE_FILES})
+set(TEST test)
+add_executable(${TEST} main.cpp)
+target_link_libraries(${TEST} BufferLib)
