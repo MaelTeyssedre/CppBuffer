@@ -1,0 +1,1 @@
+rm -rf build Include libBuffer.a 

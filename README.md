@@ -1,2 +1,14 @@
-# CPPLIB-Buffer
-Simple Buffer static library
+# BUFFER lib
+
+
+## Build
+
+Build the BUFFER lib (will give you a static library) :
+```
+> ./Make
+```
+
+Clean everything :
+```
+> ./Clean.sh
+```
