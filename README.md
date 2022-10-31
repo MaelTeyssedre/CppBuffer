@@ -1,4 +1,4 @@
-# BUFFER lib
+# Templated cyclic bufferd lib in C++ 
 
 
 ## Build
