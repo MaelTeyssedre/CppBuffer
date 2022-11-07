@@ -12,5 +12,3 @@ Clean everything :
 ```
 > ./Clean.sh
 ```
-
-.
